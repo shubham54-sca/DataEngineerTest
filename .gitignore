@@ -1,0 +1,10 @@
+*.class
+*.log
+
+logs
+project/project/*
+project/target
+modules/**/project
+target
+.idea/*
+.bsp/*
